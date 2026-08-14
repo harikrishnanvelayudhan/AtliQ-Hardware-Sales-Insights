@@ -1,2 +1,73 @@
-# AtliQ-Hardware-Sales-Insights
-Business Intelligence project analyzing AtliQ Hardware sales data using SQL, Power BI, Power Query, and DAX to uncover revenue, market, customer, product, and sales trends.
+📊 AtliQ Hardware Sales Insights
+
+Independent Business Intelligence Project
+
+Tools:
+SQL Server | Power Query | Power BI | DAX
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📌 Project Overview
+
+This project analyses AtliQ Hardware sales data to understand
+revenue, sales quantity, market performance, customer
+performance, product performance and sales trends.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🎯 Business Objectives
+
+• Analyse revenue and sales quantity
+• Identify high-performing markets
+• Analyse customer contribution
+• Evaluate product performance
+• Track sales trends
+• Develop business KPIs
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🛠️ Technologies
+
+SQL Server
+Power Query
+Power BI
+DAX
+Star Schema
+Data Modelling
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📊 Dashboard Preview
+
+[YOUR POWER BI SCREENSHOT]
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🗂️ Data Model
+
+[YOUR STAR SCHEMA IMAGE]
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📈 Key Insights
+
+[YOUR ACTUAL FINDINGS]
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📁 Repository Structure
+
+sql/
+dax/
+power_query/
+data_model/
+powerbi/
+screenshots/
+documentation/
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+👤 Author
+
+Harikrishnan V
+Aspiring Data Analyst / BI Analyst
