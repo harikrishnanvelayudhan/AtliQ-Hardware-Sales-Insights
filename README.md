@@ -4,6 +4,10 @@ An end-to-end **Business Intelligence learning project** built using **SQL and M
 
 The project demonstrates the complete BI workflow, from querying raw transactional data to transforming, modeling, analyzing, visualizing, and publishing an interactive Power BI report.
 
+## Dashboard Preview
+
+![AtliQ Hardware Sales Analytics Dashboard](Dashboard_Overview.png)
+
 ## Project Overview
 
 This project is based on the sales data and business scenario of **AtliQ Hardware**.
@@ -114,6 +118,10 @@ The model consists of:
 
 This structure enables efficient filtering and analysis across different business dimensions.
 
+### Data Model
+
+![AtliQ Hardware Star Schema Data Model](Data_Model.png)
+
 ### 4. DAX Measures
 
 DAX was used to create dynamic measures and KPIs, including:
@@ -130,11 +138,11 @@ DAX was used to create dynamic measures and KPIs, including:
 Example measures:
 
 ```DAX
-Total Revenue = SUM(Sales[Sales Amount])
+Total Revenue = SUM(transactions[Sales Amount])
 ```
 
 ```DAX
-Total Quantity = SUM(Sales[Sales Quantity])
+Total Quantity = SUM(transactions[Sales Quantity])
 ```
 
 These measures dynamically respond to report filters and user interactions.
@@ -159,7 +167,7 @@ Interactive features include:
 * Bookmarks
 * Report navigation
 
-## Key Insights
+## Dashboard Highlights
 
 Based on the dashboard analysis:
 
@@ -201,12 +209,11 @@ This project demonstrates the complete workflow:
 ```text
 AtliQ-Hardware-Sales-Analytics/
 │
+├── AtliQ_Sales_Project_Report_v2.pdf
 ├── Atliq_Sales_Project.pbix
-├── AtliQ_Sales_Project_Report.pdf
-├── AtliQ_Sales_Dashboard_Overview.pdf
-├── README.md
-└── Images/
-    └── Dashboard_Screenshot.png
+├── Dashboard_Overview.png
+├── Data_Model.png
+└── README.md
 ```
 
 ## Skills Demonstrated
